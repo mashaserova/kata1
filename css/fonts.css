@@ -1,5 +1,5 @@
 @font-face {
-    font-family: TT Lakes;
+    font-family: 'TT Lakes';
     font-weight: 500;
     font-style: normal;
     src: local('TT Lakes'),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-    font-family: TT Lakes;
+    font-family: 'TT Lakes';
     font-weight: 900;
     font-style: normal;
     src: local('TT Lakes'),
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: TT Lakes;
+    font-family: 'TT Lakes';
     font-weight: 700;
     font-style: normal;
     src: local('TT Lakes'),
