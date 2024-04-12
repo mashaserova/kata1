@@ -2,6 +2,7 @@
 /* ------------------------------------------320px-------------------------------------- */
 /* ---------------GLOBAL------------ */
 /* ---------------GLOBAL------------ */
+@import url(./fonts.css);
 html, body {
     font-family: TT Lakes, sans-serif;
     background-color: #F8F8F8;
