@@ -154,17 +154,20 @@
 }
 .about-us__anchor {
     position: relative;
-    display: flex;
-    width: auto;
+    width: 100px;
+    padding-left: 24px;
     height: 24px;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: -0.2px;
 }
-.blue-arrows {
+.about-us__anchor::before {
+    content: "";
+    position: absolute;
     width: 24px;
     height: 24px;
-    background: transparent url("../images/blue-arrows.svg") no-repeat;
+    left: 0px;
+    background: url("../images/blue-arrows.svg") no-repeat;
 }
 
 .about-us__photo {
